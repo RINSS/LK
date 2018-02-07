@@ -1,0 +1,14 @@
+body{
+    background: green;
+}
+
+#all{
+    max-width: 960px;
+    margin: auto;
+}
+
+#form_login{
+    background: #426ff5;
+    display: table-cell;
+    vertical-align: middle;
+}
